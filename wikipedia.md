@@ -122,12 +122,12 @@ He also possesses a powerful first serve, which can reach up to speeds of 221 km
 
 Sinner has been compared to Roger Federer for his calm on-court demeanour and all-court movement. Federer himself has praised Sinner for the balance in his game, remarking, "What I like about him is that he almost has the same speed of shooting from the forehand and backhand". Former world No. 1 junior and tennis coach Claudio Pistolesi has praised Sinner's good lateral movement, which he attributes in part to Sinner's background in skiing. In this regard, Sinner has been compared to Novak Djokovic, who also credits a background in skiing for improving his tennis skills.
 
-## Coaches
+## Coaches
 When Sinner began to prioritise tennis at age thirteen, he was coached by Riccardo Piatti, who had also been a part-time coach of Novak Djokovic and Milos Raonic. At the time, he also began working with Andrea Volpini and Massimo Sartori, the latter of whom was a longtime coach of Andreas Seppi. He continued to work with Piatti as his primary coach, and Volpini as his second coach. His team also consisted of physiotherapist Claudio Zimaglia and fitness coach Dalibor Sirola.
 
 In February 2022, he decided to stop his long collaboration with Piatti and his team and began to train with Simone Vagnozzi, ex-coach of Marco Cecchinato. In July 2022, coach Darren Cahill officially joined Sinner's team.
 
-## Personal life
+## Personal life
 Sinner grew up in a German-speaking family. His Italian greatly improved after moving to Bordighera at the age of 13, and he also speaks English.
 
 Sinner resides in Monte Carlo in Monaco. He is a fan of the football club AC Milan. One of his tennis idols is compatriot Andreas Seppi, who is also from South Tyrol. Aged 17, Sinner stated that one of his goals was to "do better than him [Seppi]". He also idolized Roger Federer and Novak Djokovic.
@@ -136,6 +136,6 @@ Sinner follows a healthy diet and conservative lifestyle. He enjoys cars.
 
 He is currently dating fellow tennis player Anna Kalinskaya.
 
-## Endorsements
+## Endorsements
 
 Though sponsorship deals can change from month to month, some of Jannik Sinner's endorsements as of 2024 include: Nike, Head, Rolex, Gucci, Intesa San Paolo, FASTWEB, Pigna, Lavazza, Panini Comics, and Formula 1. Other 2024 press releases have Sinner sponsors listed such as Alfa Romeo, Technogym, and Parmigiano Reggiano.

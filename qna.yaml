@@ -1,0 +1,59 @@
+---
+version: 2
+task_description: Teach the model the results of the 2024 Oscars
+created_by: marbe
+domain: sports
+seed_examples:
+  - question: Who is Jannik Sinner?
+    answer: |
+      Jannik Sinner is an Italian professional tennis player born 16 Augus
+      2001.
+  - question: What is the highest rank Jannik Sinner achieved?
+    answer: |
+      He has been ranked as high as world No. 2 in singles by the Association
+      of Tennis Professionals (ATP), and is the highest-ranked Italian tennis
+      player in history.
+  - question: How many titles has Sinner won in his career?
+    answer: |
+      Jannik Sinner has won 13 ATP Tour singles titles, including a Grand Slam
+      title at the 2024 Australian Open and two Masters 1000 titles.
+  - question: When did Sinner begin playing in professional's men's event?
+    answer: >
+      Despite limited success as a junior, Sinner began playing in
+      professional
+
+      men's events in 2018 at age 16 and became one of the few players to win multiple
+
+      ATP Challenger Tour titles at age 17.
+  - question: What other sport did Sinner practice when was a child?
+    answer: |
+      Sinner began both skiing and playing tennis at age three. He was one of
+      Italy's top junior skiers from eight to twelve years old, winning a
+      national championship in giant slalom at age eight and earning a national
+      runner-up at the age of twelve.
+  - question: When did Sinner win his first ATP Challenger title?
+    answer: |
+      Sinner at the 2019 Next Generation ATP Finals in Milan Sinner won his
+      first ATP Challenger title in Bergamo in February 2019 at the age of 17
+      years and 6 months.
+  - question: When did Sinner win its first ATP title?
+    answer: |
+      In 2020 Sinner closed out the season by winning the Sofia Open for his
+      first ATP title. During the event, he defeated Next Gen rival Alex de
+      Minaur and then Vasek Pospisil in the final.
+  - question: Did Sinner ever win against Lorenzo Musetti?
+    answer: |
+      Yes. Sinner defeated Lorenzo Musetti at the 2021 European Open tournament
+       and at the 2023 Monte Carlo tournament.
+  - question: Has Sinner ever been a Grand Slam champion?
+    answer: |
+      Yes. Sinner won his first major title in 2024 at the Australian Open.
+  - question: Who are Jannik Sinner's coaches?
+    answer: |
+      Jannik Sinner's coach is Simone Vagnozzi, since February 2022. In July
+      2022, coach Darren Cahill officially joined Sinner's team.
+document:
+  repo: https://github.com/marbe/jannik_sinner_knowledge.git
+  commit: null
+  patterns:
+    - wikipedia.md
